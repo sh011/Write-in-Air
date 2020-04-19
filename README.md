@@ -1,1 +1,1 @@
-# Write-in-Air
+This project aims to detect the trajectory of a person's fingertip using a simple laptop webcam. Once this trajectory is traced, a CNN model is built to detect the drawn trajectory and figure out what the user is writing.
