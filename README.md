@@ -1,1 +1,1 @@
-This project aims to detect the trajectory of a person's fingertip using a simple laptop webcam. Once this trajectory is traced, a CNN model is built to detect the drawn trajectory and figure out what the user is writing.
+This project aims to detect the trajectory of a person's fingertip using a simple laptop webcam. Once this trajectory is traced, a CNN model is built to detect the drawn trajectory and figure out what the user is writing. Our main aim is to detect mathematical operators and digits for mathematical calculations.
