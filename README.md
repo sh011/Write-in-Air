@@ -12,13 +12,13 @@
 * final_model_weight.h5 : Contains trained weights and model
 ##### 3. data.zip : Dataset
 ##### 4. outputs : This folder contains the various images of digits generated from the trajectory.
-##### 5. requirements.txt : This file contains all the requirements
+##### 5. requirements.txt : This file contains all the requirements.
 
 ## How To Use
 
 ### On Ubuntu
 
-1. clone the repository from github 
+1. Clone the repository from github 
 
 2. Create a Python virtual environment
 ```sh
