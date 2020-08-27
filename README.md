@@ -20,7 +20,7 @@
 
 1. clone the repository from github 
 
-2. Create a Python vertual invironment
+2. Create a Python virtual environment
 ```sh
 $ python3 -m venv Write-In-Air
 $ cd Write-In-Air
@@ -37,6 +37,6 @@ $ python3 main.py
 4. Keep your hand in the given rectangle and start writing
 
 ### On Windows
-Install the requirement provided in requirements.txt in Anaconda and run the program.
+Install the requirements provided in requirements.txt in Anaconda and run the program.
 
 ### ### `Note: For this code to work properly, clear backgroud and bright lighting is necessary.`
